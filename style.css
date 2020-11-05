@@ -1,7 +1,7 @@
 *{
     margin: 1px;
     padding: 5px;
-    background-color:#fff1f1;
+    background-color:#fff5f5;
     color:#4b4a4a
 }
 
@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    width: 49%;
+    width: 60.5%;
     margin-right: auto;
     margin-left: auto;
     margin-top: 30px;
@@ -66,7 +66,7 @@ nav ul li a{
 
 section{
     float:center;
-    width: 50%;
+    width: 62%;
     margin-right: auto;
     margin-left: auto;
     margin-top: 0px;
@@ -82,7 +82,7 @@ section p{ font-size: 20px;
     
 }
 footer{
-    width: 50%;
+    width: 62%;
     margin-right: auto;
     margin-left: auto;
     margin-top: 1px;
@@ -187,8 +187,8 @@ table{
 }
 
 td{
-    border: 2px;
-    padding: none;
+    border:2px;
+    padding: 0.5px;
 }
 
 
