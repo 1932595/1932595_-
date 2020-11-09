@@ -1,0 +1,110 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    background-color:white;
+    color:#4b4a4a
+}
+.title1{
+    color: #feb3a7;
+}
+
+body{
+    font-style: "맑은고딕", "고딕", "굴림";
+}
+
+header{
+    text-align: center;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    padding-top: 5px;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+header h1{
+    padding: 5px;
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    color:#ffffff;
+    font-style:italic;
+    font-size:40px;
+    border-bottom-style: double; 
+    border-bottom-width: thick;
+    border-top-style: double; 
+    border-top-width: thick;
+    border-color: #ffcccc; 
+}
+header h2{
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: none;
+    color:#ffffff;
+    font-style:italic;
+    font-size:40px;
+}
+
+
+header nav{
+    text-align: center;
+    padding:10px;
+    background-color: #ffcccc;  
+    
+}
+
+nav ul{
+    float: center;
+    list-style: none;
+    background-color: #ffcccc;
+}
+
+nav ul li{
+    display:inline;
+    float: center;
+    margin: 80px;
+}
+
+nav ul li a{
+    color: #feb3a7;
+}
+
+section{
+    float:right;
+    width: 30%;
+    margin-right: 150px;
+    margin-left: auto;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+s1 p{
+    color: #767676;
+    background-color: #ffffff;
+}
+s1 li{
+    float:center;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    text-decoration: underline #ffcccc;
+}
+
+section p{ font-size: 20px;
+    font-family:sans-serif;
+    text-align: center;
+    background-color: #ffdfdf;
+    
+}
+
+ul{
+    list-style-type: circle;
+}
+
+
+
+
+
