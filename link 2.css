@@ -1,8 +1,8 @@
-
 *{
     margin: 1px;
     padding: 1px;
     background-color:floralwhite;
+    color:#ff9280;
 }
 .title1{
     color: #feb3a7;
@@ -20,7 +20,7 @@ header{
     margin-left: auto;
     margin-top: 30px;
     padding-top: 5px;
-    background-color: floralwhite;
+    background-color:floralwhite;
     overflow: hidden;
 }
 
@@ -43,6 +43,7 @@ header h2{
     margin-right: auto;
     margin-left: auto;
     padding: none;
+    color:#ffffff;
     font-style:italic;
     font-size:40px;
 }
@@ -74,17 +75,16 @@ nav ul li a{
     color: #ffffff;
     background-color: #feb3a7;
     font-family: "DX영화자막 Std Medium";
-    
 }
 
 ul li a:hover{
-font-size: 20px;
-color: violet;    
+    font-size: 20px;
+    color: violet;    
 }
 
 section{
-    float:center;
     width: 100%;
+    float:center;
     margin-right: auto;
     margin-left: auto;
     margin-top: 0px;
@@ -92,15 +92,76 @@ section{
     padding-bottom: 10px;
 }
 
-section p{ 
-    font-size: 25px;
-    font-family: "나눔손글씨 붓";
-    color: #ffa394;
-    text-align: center;
-    background-color: floralwhite;
-    text-decoration:underline;
-    text-shadow: 1px 1px 5px #ffcece;
+s1 p{
+    float:center;
+    margin-right: auto;
+    margin-left: auto;
+    width:100%;
+    color: #ff9280;
+    background-color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 700;
 }
+
+
+.li2{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: center;
+    background-color: #ffdfdf;
+    font-family: "DX영화자막 Std Medium";
+    border-bottom-style: double; 
+    border-bottom-width: thick;
+    border-top-style: double; 
+    border-top-width: thick;
+    border-color: #ffcccc;
+    background-color: #ffffff;
+}
+
+
+s2 table{
+    float: center;
+    border: none;
+    margin: auto;
+    width: 70%;
+}
+
+.t01{
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.t02{
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.t03{
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.p1{
+    float: center;
+    font-weight: 700;
+    font-family: "DX영화자막 Std Medium";
+}
+.p2{
+    float: center;
+    width: 350px;
+    height: 24px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: "DX영화자막 Std Medium";
+}
+
 footer{
     width: 100%;
     margin-right: auto;
@@ -122,26 +183,6 @@ footer p{
 
 ul{
     list-style-type: circle;
-}
-
-h1{
-    font-variant: small-caps;
-    text-align: center;
-    font-size:30px;
-}
-
-table{
-    width: 100px;
-    padding: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    float: center;
-}
-
-td{
-    float: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
